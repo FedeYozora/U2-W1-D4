@@ -15,6 +15,9 @@
   min-height: 145px;
 }
 
+span {
+  color: rgb(83, 133, 190);
+}
 main {
   display: flex;
   flex-direction: column;
